@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <!-- <Operation Class="PatchOperationAddModExtension">
+        <xpath>Defs/FactionDef[@Name="TribeBase"]</xpath>
+        <value>
+            <li Class="SyncedFixedIdeo.ModExtension_SyncedIdeo">
+                <ideoGroup>Tribal</ideoGroup>
+            </li>
+        </value>
+    </Operation> -->
+</Patch>
